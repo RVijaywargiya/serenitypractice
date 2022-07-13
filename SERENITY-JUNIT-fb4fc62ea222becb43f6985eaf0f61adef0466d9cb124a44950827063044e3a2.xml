@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="starter.serenityswag.authentication.WhenLoggingOn" skipped="0" tests="1" time="17.87" timestamp="2022-07-13 08:34:17"><testcase classname="starter.serenityswag.authentication.WhenLoggingOn" name="Users can login via the home page"/></testsuite>
